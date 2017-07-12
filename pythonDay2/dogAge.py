@@ -5,4 +5,4 @@ for i in range(1, a+1):
 		b+=10.5
 	else:
 		b+=4
-print("The dog's age in dog's years is %d" %b)		
+print("The dog's age in dog's years is %d" %b)	
