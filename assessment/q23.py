@@ -1,0 +1,5 @@
+filename=raw_input("Enter file name to be opened: ")
+fopen=open(fileName, "a")
+a=raw_input("Enter the string to be appended: ")
+fopen.write(a)
+fopen.close()
